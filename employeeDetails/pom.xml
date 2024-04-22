@@ -70,7 +70,7 @@
 			</plugin>
 			
 		</plugins>
-		<finalName>EmployeeApp.exe</finalName>
+		<finalName>EmployeeApp1.exe</finalName>
 	</build>
 
 </project>
